@@ -8,4 +8,4 @@
     - name: set stats 
       set_stats:
         data:
-          msg: "Hello World!"
+          hello_msg: "Hello World!"
