@@ -4,4 +4,8 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
-
+        
+    - name: set stats 
+      set_stats:
+        data:
+          msg: "Hello World!"
